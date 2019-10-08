@@ -1,4 +1,1 @@
 # letsGitLit
-edit
-
-GitisLit
